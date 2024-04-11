@@ -1,0 +1,10 @@
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\bin\Debug\Calculator.exe.config
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\bin\Debug\Calculator.exe
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\bin\Debug\Calculator.pdb
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.Form1.resources
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.exe
+E:\СЕССИЯ\РПИ\Калькулятор\Calculator\obj\Debug\Calculator.pdb
